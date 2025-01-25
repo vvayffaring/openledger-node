@@ -1,1 +1,0 @@
-# openledger-node
